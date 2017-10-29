@@ -36,7 +36,7 @@
                 }
             }
   - 同时使用了redirect(重定向)，(forward)转发比重定向快，因为重定向需要经过客户端，转发不需要经过客户端。但是重定向可以重新定向到一个外部的网站，而转发是不可以的。
-  - ![](\image\4.png)
+  - ![](https://github.com/zkydrx/SpringMVCStudy4/blob/master/src/main/webapp/image/4.png?raw=true)
     -       @RequestMapping(value="/product_save",method = RequestMethod.POST)
                 public String saveProduct(ProductForm productForm, RedirectAttributes redirectAttributes)
                 {

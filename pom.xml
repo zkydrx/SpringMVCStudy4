@@ -52,11 +52,11 @@
 
 
      <!--使用注解不需要javax.servlet.-->
-    <dependency>
-    <groupId>javax.servlet</groupId>
-    <artifactId>javax.servlet-api</artifactId>
-    <version>${servlet.version}</version>
-    </dependency>
+    <!--<dependency>-->
+    <!--<groupId>javax.servlet</groupId>-->
+    <!--<artifactId>javax.servlet-api</artifactId>-->
+    <!--<version>${servlet.version}</version>-->
+    <!--</dependency>-->
 
     <!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
     <dependency>
@@ -68,7 +68,6 @@
 
   <properties>
     <spring.version>3.2.2.RELEASE</spring.version>
-    <servlet.version></servlet.version>
   </properties>
   <build>
     <finalName>SpringMVCStudy4</finalName>
