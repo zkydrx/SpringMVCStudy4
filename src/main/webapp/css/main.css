@@ -13,28 +13,28 @@ form {
     font: 100% "Ubuntu Mono";
     min-width: 500px;
     max-width: 560px;
-    width:520px;
+    width: 520px;
 }
 
 form fieldset {
     border-color: #ffbc00;
-    border-width:2px;
-    margin:0px;
+    border-width: 2px;
+    margin: 0px;
 }
 
-legend{
+legend {
     font-size: 1.5em;
 }
 
-form label{
-    width:240px;
+form label {
+    width: 240px;
     display: block;
     float: left;
     text-align: right;
-    padding:2px;
+    padding: 2px;
 }
 
-#buttons{
+#buttons {
     text-align: center;
     color: #434343;
 }

@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>The product has been saved.</title>
-    <style type="text/css">@import url(../../css/main.css);</style>
+    <style type="text/css">@import url(/css/main.css);</style>
 </head>
 <body>
 <div id="global">
