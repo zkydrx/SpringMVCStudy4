@@ -67,7 +67,7 @@
   </dependencies>
 
   <properties>
-    <spring.version>3.2.2.RELEASE</spring.version>
+    <spring.version>3.2.5.RELEASE</spring.version>
   </properties>
   <build>
     <finalName>SpringMVCStudy4</finalName>
